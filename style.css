@@ -10,3 +10,15 @@ body {
   font-weight: 800;
 }
 /* navbar-nav and nav-item style end  */
+
+
+.healthcare-title{
+  font-size: 48px;
+  font-weight: 700;
+  color: springgreen;
+}
+.healthcare-details{
+  color: #7D7987;
+font-size: 18px;
+line-height: 32px;
+}
