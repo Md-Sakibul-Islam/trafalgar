@@ -59,14 +59,13 @@ services  style end
 ----------------------
 */
 
-
 /* 
 --------------------------
 services card style start 
 -------------------------
 */
 
-.card{
+.card {
   box-shadow: 10px 10px 30px lightgray;
   border-radius: 15px;
   border: 0;
@@ -79,18 +78,47 @@ services card style start
 .card-title {
   font-weight: bold;
   font-size: 22px;
-  line-height:50px;
+  line-height: 50px;
   color: #000000;
 }
-.card-text{
-font-size: 16px;
-line-height: 24px;
-color: #7D7987;
-
+.card-text {
+  font-size: 16px;
+  line-height: 24px;
+  color: #7d7987;
 }
 
 /* 
 -------------------------
 services card style end  
 -------------------------
+*/
+
+
+/* 
+--------------------------------
+btn and leading part style start
+---------------------------------
+*/
+.btn {
+  width: 145px;
+  height: 50px;
+  border: 2px solid springgreen;
+  color: springgreen;
+  text-align: center;
+}
+.leading-title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 56px;
+  color: #000000;
+}
+.leading-text {
+  font-size: 16px;
+  line-height: 30px;
+  color: #7d7987;
+}
+/* 
+--------------------------------
+btn and leading part style end
+---------------------------------
 */
