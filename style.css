@@ -42,10 +42,14 @@ healthcare style end
 
 /*
 -----------------------
-services style end 
+services style start 
 ----------------------
 */
-
+.services{
+  background-image: url(./images/services-bg.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+}
 .services-text {
   font-size: 16px;
   line-height: 27px;
@@ -69,11 +73,12 @@ services card style start
   box-shadow: 10px 10px 30px lightgray;
   border-radius: 15px;
   border: 0;
-  height: 320px;
+ 
 }
 .card img {
   width: 90px;
   height: 90px;
+  border-radius: 10px;
 }
 .card-title {
   font-weight: bold;
@@ -122,3 +127,8 @@ btn and leading part style start
 btn and leading part style end
 ---------------------------------
 */
+
+.articale-img{
+  width: 280px !important;
+  height: 200px !important;
+}
