@@ -2,23 +2,95 @@ body {
   font-family: "Mulish", sans-serif;
 }
 
-/* navbar-nav and nav-item style start  */
+/* 
+----------------------------------
+navbar-nav and nav-item style start
+------------------------------------
+*/
 .navbar-nav .nav-item {
   margin-left: 40px;
 }
 .home {
   font-weight: 800;
 }
-/* navbar-nav and nav-item style end  */
+/* 
+--------------------------------
+navbar-nav and nav-item style end
+----------------------------------
+*/
 
-
-.healthcare-title{
+/*
+-----------------------
+healthcare style start 
+------------------------
+*/
+.healthcare-title {
   font-size: 48px;
   font-weight: 700;
   color: springgreen;
 }
-.healthcare-details{
-  color: #7D7987;
-font-size: 18px;
-line-height: 32px;
+.healthcare-details {
+  color: #7d7987;
+  font-size: 18px;
+  line-height: 32px;
 }
+/*
+-------------------------
+healthcare style end 
+---------------------------
+*/
+
+/*
+-----------------------
+services style end 
+----------------------
+*/
+
+.services-text {
+  font-size: 16px;
+  line-height: 27px;
+  text-align: justify;
+  text-align-last: center;
+  color: #7d7987;
+}
+/* 
+----------------------
+services  style end  
+----------------------
+*/
+
+
+/* 
+--------------------------
+services card style start 
+-------------------------
+*/
+
+.card{
+  box-shadow: 10px 10px 30px lightgray;
+  border-radius: 15px;
+  border: 0;
+  height: 320px;
+}
+.card img {
+  width: 90px;
+  height: 90px;
+}
+.card-title {
+  font-weight: bold;
+  font-size: 22px;
+  line-height:50px;
+  color: #000000;
+}
+.card-text{
+font-size: 16px;
+line-height: 24px;
+color: #7D7987;
+
+}
+
+/* 
+-------------------------
+services card style end  
+-------------------------
+*/
