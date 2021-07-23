@@ -1,0 +1,12 @@
+body {
+  font-family: "Mulish", sans-serif;
+}
+
+/* navbar-nav and nav-item style start  */
+.navbar-nav .nav-item {
+  margin-left: 40px;
+}
+.home {
+  font-weight: 800;
+}
+/* navbar-nav and nav-item style end  */
