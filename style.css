@@ -132,3 +132,23 @@ btn and leading part style end
   width: 280px !important;
   height: 200px !important;
 }
+footer{
+  margin-top: 200px;
+}
+.footer-part{
+  padding: 50px;
+background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+/* height: 400px; */
+color: white;
+}
+.nav-footer a{
+  color: white;
+}
+.nav-footer a:hover{
+  color: black;
+}
+.border-bottom-nav{
+  border-bottom: 2px solid white;
+  width: 40px;
+  text-align: center;
+}
